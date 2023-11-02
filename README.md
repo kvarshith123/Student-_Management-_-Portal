@@ -23,9 +23,15 @@ On the basis of the mess attendance ,mess fee will be deducted and the rest is r
 
 We uploaded some txt files that saves our data . files and their details are
 1.pqr.txt contains student name and default passwords.
+
 2.pqrr.txt contains students marks and cg.
+
 3.pqrs.txt contains student mess attendance.
+
 4.iss.txt contains student issue slips and his roll number.
+
 5.sub.txt contains votes casted by students for tomorrow mess.
+
 6.trs.txt and temp.txt are temporary files that stores data temporarily and transfer data to main file in edit and delete functions
+
 7.votrs.txt file contains roll numbers of students who casted their votes for tomorrow's mess.
